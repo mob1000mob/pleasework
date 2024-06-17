@@ -63,4 +63,4 @@ jobs:
           app-name: 'ThePortfolioHub'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D9645BED96D4BFD9DBC57E64B38D27E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9F90571A75B42D589A6C00802EC3C15 }}
