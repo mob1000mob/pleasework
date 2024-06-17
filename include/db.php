@@ -1,7 +1,6 @@
 <?php
-$db=mysqli_connect("localhost","root","","portfolio");
-//if($db){
-//    echo "databse is connected !";
-//}else{
-//    echo "something is wrong with database !";
-//
+	define('DB_HOST', 'phub.mysql.database.azure.com');
+	define('DB_USER', 'phubgroup6');
+	define('DB_PASS', 'MamAbiFinals6');
+	define('DB_NAME', 'portfoliohub');
+?>
